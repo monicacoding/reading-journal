@@ -2,15 +2,16 @@
 
 A version-controlled archive of my reading history.
 
-- **Total Books Read:** 51
-- **This Year's Goal:** 10 / 60
+- **Total Books Read:** 52
+- **This Year's Goal:** 11 / 60
 <br/>
 
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&letterSpacing=0.2rem&duration=1000&pause=5000&color=8075FF&vCenter=true&repeat=false&width=435&lines=Currently+Reading" alt="Typing SVG" /></a><br/>
 - 🙇‍♀️ **[The Daily Stoic](https://amzn.to/4rqMJRJ)** by Ryan Holiday ~ A year-long collection of daily Stoic reflections drawn from ancient philosophy.
 - 🧠 **[Stop Letting Everything Affect You](https://amzn.to/3MNEAaM)** by Daniel Chidiac ~ A practical guide to managing emotions, overthinking, and self-sabotaging patterns.
-- 👾 **[The Dungeon Anarchist's Cookbook](https://amzn.to/4aBaT4N)** by Matt Dinniman ~ Carl and Donut escalate their rebellion while surviving an even more chaotic dungeon floor (Book 3).
+- 👾 **[The Gate of the Feral Gods](https://amzn.to/4kSFJKP)** by Matt Dinniman ~ Carl and Donut battle through a savage new dungeon level where rival factions, deadly gods, and escalating chaos threaten their survival (Book 4).
+
 <br/>
 
 
@@ -26,6 +27,7 @@ A version-controlled archive of my reading history.
 8. 🐦‍🔥 **[Harry Potter and the Chamber of Secrets](https://amzn.to/3MuBoko)** by J.K. Rowling ~ Harry returns to Hogwarts to uncover the dark force terrorizing the school.
 9. 🎾 **[Serve to Win](https://amzn.to/4rlggMm)** by Novak Djokovic ~ A tennis champion shares the mindset, discipline, and habits behind his success.
 10. 🕵️‍♀️ **[My Husband's Wife](https://amzn.to/4amRl5h)** by Alice Feeney ~ A psychological thriller unraveling the secrets and lies within a seemingly perfect marriage.
+11. 👾 **[The Dungeon Anarchist's Cookbook](https://amzn.to/4aBaT4N)** by Matt Dinniman ~ Carl and Donut escalate their rebellion while surviving an even more chaotic dungeon floor (Book 3).
 <br/>
 
 
@@ -65,4 +67,4 @@ A version-controlled archive of my reading history.
 - 🕵️‍♀️ **[My Husband's Wife](https://amzn.to/4amRl5h)** by Alice Feeney ~ A psychological thriller unraveling the secrets and lies within a seemingly perfect marriage.
 <br/>
 
-*Last Updated: February 17, 2026*
+*Last Updated: February 18, 2026*
